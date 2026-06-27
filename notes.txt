@@ -1,4 +1,4 @@
-My first git practice file
+My first git practice file - edited on master by teammate
 This is my second line
 test line
 this line only exists in the experiment branch
